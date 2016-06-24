@@ -1,0 +1,14 @@
+layout_spectrum: 0.2724014
+color:
+  saturation: 0.5843368
+  lightness: 0.9402905
+  brandStrength: 0.2329749
+  brandColors:
+    - '#000000'
+    - '#3C6FA8'
+    - '#DDCB32'
+    - '#544C15'
+    - '#8C821D'
+  rhythmicContrast: 0.5089615
+typography_spectrum: 0.8709677
+name: 'onePot Theology '
